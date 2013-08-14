@@ -7,7 +7,7 @@
 	</head>
 	
 	<body>
-		Test
+		Test 2
 	</body>
 	
 </html>
